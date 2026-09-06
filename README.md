@@ -2,9 +2,6 @@
 
 A powerful AI-powered Streamlit web app that combines **Computer Vision**, **NLP**, and **Machine Learning** to provide personalized meal and workout planning.
 
-## 🌐 Live Demo
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app-url.streamlit.app)
-
 ---
 
 ## 🚀 Features
